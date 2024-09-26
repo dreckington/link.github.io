@@ -29,7 +29,7 @@
 822672589784481843,usr_52e50622-49f3-49b8-933c-a48c1982315d,XBakedPandaX,0,False
 750774426597064775,usr_fa7ec87e-c50b-440f-a5d4-e252b2e975a0,Cerise_Rose,0,False
 569353298553995297,usr_30689c19-7095-480d-b831-30fd8141e618,ΛLEXTHEFMBY,1,True
-215605851195572227,usr_3cab20f7-f55d-4ebb-b0bb-5ecbdacacd9a,Neon Protobyte,2,False
+215605851195572227,usr_3cab20f7-f55d-4ebb-b0bb-5ecbdacacd9a,Neon Protobyte,0,False
 645392764661661701,usr_4dd13564-105e-4e7d-a2ec-aa3e2b73aad7,Night-Fox,0,False
 749553849274204181,usr_2918cbaf-c949-4bf0-a0a3-1fce5fdafd9b,Shift-,0,False
 448226515654541313,usr_af5b74f6-ebd1-4de8-a201-c60ecc7e8b14,TicTacModz,0,False
